@@ -1,0 +1,21 @@
+{
+    "name": "http-json",
+    "version": "0.0.1",
+    "description": "Node.js module for easy json http interface",
+    "preferGlobal": "true",
+    "main": "lib/http-json.js",
+    "author": "Jussi Vatjus-Anttila",
+    "keywords": ["json", "http", "GET", "POST"],
+    "repository" : {
+        "type": "git",
+        "url": "https://juvatjus@github.com/juvatjus/http-json.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "chai": "*",
+        "express": "*",
+        "express": "chai"
+    },
+    "engines": { "node": ">=0.8.20" }
+}
