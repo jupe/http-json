@@ -8,7 +8,7 @@
     "keywords": ["json", "http", "GET", "POST"],
     "repository" : {
         "type": "git",
-        "url": "https://juvatjus@github.com/juvatjus/http-json.git"
+        "url": "https://jupe@github.com/jupe/http-json.git"
     },
     "dependencies": {
     },
