@@ -3,6 +3,16 @@ HTTP JSON helper function.
 
 ## Usage
 Arguments order are detected automatically.
+- getJSON()
+- postJSON()
+- deleteJSON()
+- putJSON()
+- updateJSON()
+- copyJSON()
+- moveJSON()
+- searchJSON()
+
+
 
 Usage:
 
