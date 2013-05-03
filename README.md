@@ -17,7 +17,7 @@ Arguments order are detected automatically.
 Usage:
 
 ```
-var httpJson = require('http-json');
+var httpJson = require('http-json-request');
 httpJson.postJSON('server', {my: jsonObject}, function(error, responseObject){
   console.log(error|responseObject);
 });

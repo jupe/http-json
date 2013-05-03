@@ -1,6 +1,7 @@
 {
     "name": "http-json-request",
     "version": "0.0.4",
+    "preferGlobal": false,
     "description": "Node.js module for simplify json http requests",
     "preferGlobal": "true",
     "main": "lib/http-json.js",
