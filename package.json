@@ -1,21 +1,21 @@
 {
-    "name": "http-json",
+    "name": "http-json-request",
     "version": "0.0.1",
-    "description": "Node.js module for easy json http interface",
+    "description": "Node.js module for simplify json http requests",
     "preferGlobal": "true",
     "main": "lib/http-json.js",
     "author": "Jussi Vatjus-Anttila",
-    "keywords": ["json", "http", "GET", "POST"],
+    "keywords": ["json", "http", "GET", "POST", "PUT"],
     "repository" : {
         "type": "git",
-        "url": "https://jupe@github.com/jupe/http-json.git"
+        "url": "https://jupe@github.com/jupe/http-json-request.git"
     },
     "dependencies": {
     },
     "devDependencies": {
         "chai": "*",
         "express": "*",
-        "express": "chai"
+        "chai": "*"
     },
     "engines": { "node": ">=0.8.20" }
 }
