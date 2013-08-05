@@ -1,5 +1,8 @@
 ## Overview
 HTTP JSON helper function.
+
+[![Build Status](https://travis-ci.org/jupe/http-json-request.png?branch=master)](https://travis-ci.org/jupe/http-json-request)
+
 ## Usage
 
 Arguments order are detected automatically.
