@@ -1,6 +1,11 @@
 ## Overview
 HTTP JSON helper function.
 
+Tested with node.js versions: 
+  - 0.10
+  - 0.8
+  - 0.6
+
 [![Build Status](https://travis-ci.org/jupe/http-json-request.png?branch=master)](https://travis-ci.org/jupe/http-json-request)
 
 ## Usage
